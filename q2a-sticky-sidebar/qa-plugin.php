@@ -1,7 +1,7 @@
 <?php
 /*
 	Plugin Name: Simple Sticky Sidebar
-	Plugin URI: #
+	Plugin URI: https://www.question2answer.org/qa/71614/new-free-plugin-sticky-sidebar
 	Plugin Description: Implementing "abouolia sticky sidebar" script. By default works with SnowFlat and similar themes. You can tune for your theme in options panel.
 	Plugin Version: 0.1
 	Plugin Date: 2018-01-05
