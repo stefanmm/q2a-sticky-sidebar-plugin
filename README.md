@@ -24,6 +24,11 @@ Just a simple plugin that will stick sidebar to bottom and top.
 
 By default plugin works well with "SnowFlat" theme - no need to change anything! But, you can change settings to fit your needs. Basically, you just have to determinate id or class of side panel and parent div. For more info take a look [here](https://abouolia.github.io/sticky-sidebar/#usage).
 
+## To-do ##
+
+- Make better screen size detection
+- Better fix for bug when using SnowFlat theme on mobile
+
 ## Disclaimer ##
 
 The code is probably okay for production environments, but may not work exactly as expected. You bear the risk!
