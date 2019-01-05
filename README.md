@@ -8,6 +8,8 @@ Just a simple plugin that will stick sidebar to bottom and top.
 1) If user scrolls bottom, sidebar will scroll also until reach it's end. After that, sidebar will be fixed to bottom edge of browser. 
 2) If user scrolls back to top, sidebar will scroll also until reach it'c top. After that, sidebar will be fixed to top edge of browser.
 
+Plugin is based on this script: https://github.com/abouolia/sticky-sidebar/
+
 ## Demo ##
 ![demo gif](https://raw.githubusercontent.com/stefanmm/q2a-sticky-sidebar-plugin/master/sticky-sidebar-demo.gif)
 
