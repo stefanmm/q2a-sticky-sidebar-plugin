@@ -37,7 +37,7 @@ function head_custom()
 			);		
 			if ((int)qa_opt('sticky_sidebar_snowflatfix')) { // If user decide to apply fix for SnowFlat theme
 			$this->output(
-				"<style type='text/css'>@media (max-width: 979px){.qa-sidepanel {height: 100%!important;position: fixed!important;}.qa-sidepanel.open .inner-wrapper-sticky{position: relative!important;top: unset!important;left: unset!important;bottom: unset!important;width: unset!important;transform: none!important;}}</style>"
+				"<style type='text/css'>@media (max-width: 979px){.qa-sidepanel {height: 100%!important;position: fixed!important;}.qa-sidepanel.open ".$inner_selector."{position: relative!important;top: unset!important;left: unset!important;bottom: unset!important;width: unset!important;transform: none!important;}}</style>"
 				
 			);
 			}
